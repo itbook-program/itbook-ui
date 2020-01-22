@@ -1,5 +1,2 @@
 @import "../../vendor.wxss";
-
-.hover-class.data-v-59ac211b {
-  color: aqua;
-}
+.hover-class.data-v-59ac211b{color:aqua}

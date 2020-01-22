@@ -1,5 +1,1 @@
-<template name="index$587bfbd0">
-  <view class="_div data-v-3fe98acf custom-butttons__container">
-    <input placeholder="测试" class="_input data-v-3fe98acf" />
-  </view>
-</template>
+<template name="index$587bfbd0"><view class="_div data-v-3fe98acf custom-butttons__container"><input placeholder="测试" class="_input data-v-3fe98acf" /></view></template>

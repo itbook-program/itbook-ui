@@ -1,12 +1,1 @@
-
-.custom-button__wrapper.data-v-3fe98acf {
-  width: 100%;
-  border-radius: 44rpx;
-  background-color: #1ea473;
-  height: 88rpx;
-  color: #fff;
-  font-size: 32rpx;
-}
-.custom-button__wrapper.data-v-3fe98acf:active {
-  opacity: 0.8;
-}
+.custom-button__wrapper.data-v-3fe98acf{width:100%;border-radius:44rpx;background-color:#1ea473;height:88rpx;color:#fff;font-size:32rpx}.custom-button__wrapper.data-v-3fe98acf:active{opacity:.8}

@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/mpvue-itbookui/',
+  base: '/itbook-ui/',
   title: 'itbook',
   description: '基于 mpvue 的 itbook ui框架',
   head: [
@@ -9,7 +9,7 @@ module.exports = {
     }]
   ],
   themeConfig: {
-    repo: 'itbook-program/mpvue-itbookui',
+    repo: 'itbook-program/itbook-ui',
     editLinks: true,
     docsDir: 'docs',
     editLinkText: '在 GitHub 上编辑此页',
