@@ -13,7 +13,11 @@
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
     "build": "node build/build.js",
-    "lint": "eslint --ext .js,.vue src"
+    "lint": "eslint --ext .js,.vue src",
+    "docs": "vuepress dev docs",
+    "deploy": "sh deploy.sh",
+    "docs:build": "vuepress build docs",
+    "release": "sh ./release.sh"
   },
   "dependencies": {},
   "devDependencies": {
