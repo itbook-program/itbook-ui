@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/sr_dashboard/main",
+    "pages/counter/main",
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/sr_btn/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#FAFAFA",
+    "navigationBarTitleText": "SRUI-WeChat",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f9f9f9"
+  },
+  "sitemapLocation": "sitemap.json"
+}

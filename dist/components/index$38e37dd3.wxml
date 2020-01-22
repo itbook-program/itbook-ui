@@ -1,0 +1,1 @@
+<import src="Buttons$50a7b9b1" /><template name="index$38e37dd3"><view class="_div data-v-e744a92e container"><view class="_div data-v-e744a92e doc-title">BUTTON</view> <view class="_div data-v-e744a92e zan-panel-title">普通按钮</view> <template data="{{...$root[$kk+'0'], $root}}" is="Buttons$50a7b9b1"></template></view></template>

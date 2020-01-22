@@ -1,0 +1,1 @@
+<template name="Buttons$50a7b9b1"><view class="_div data-v-2655b09b custom-butttons__container"><button class="_button data-v-2655b09b custom-button__wrapper {{[type]}}" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}">{{text}}</button></view></template>

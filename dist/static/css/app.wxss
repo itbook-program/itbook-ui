@@ -1,0 +1,2 @@
+@import "vendor.wxss";
+.container:before{position:fixed;top:0;left:0;content:" ";width:100%;height:1rpx;background-color:#e2e2e2;z-index:5}.doc-title{position:relative;padding:30rpx 0;margin:20rpx 30rpx;line-height:50rpx;font-size:50rpx;color:#666}.doc-description{margin:28rpx 0;padding:0 30rpx;font-size:28rpx;line-height:40rpx;color:#666}
