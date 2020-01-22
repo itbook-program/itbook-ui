@@ -2,22 +2,22 @@ require("manifest.js");
 require("vendor.js");
 global.webpackJsonp([3],{
 
-/***/ 14:
+/***/ 16:
 /***/ (function(module, exports) {
 
 // removed by extract-text-webpack-plugin
 
 /***/ }),
 
-/***/ 2:
+/***/ 3:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_mpvue_loader_lib_selector_type_script_index_0_App_vue__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_mpvue_loader_lib_selector_type_script_index_0_App_vue__ = __webpack_require__(9);
 var disposed = false
 function injectStyle (ssrContext) {
   if (disposed) return
-  __webpack_require__(14)
+  __webpack_require__(16)
 }
 var normalizeComponent = __webpack_require__(1)
 /* script */
@@ -47,9 +47,9 @@ if (false) {(function () {
   if (!hotAPI.compatible) return
   module.hot.accept()
   if (!module.hot.data) {
-    hotAPI.createRecord("data-v-54dea2d0", Component.options)
+    hotAPI.createRecord("data-v-77660fd2", Component.options)
   } else {
-    hotAPI.reload("data-v-54dea2d0", Component.options)
+    hotAPI.reload("data-v-77660fd2", Component.options)
   }
   module.hot.dispose(function (data) {
     disposed = true
@@ -61,14 +61,14 @@ if (false) {(function () {
 
 /***/ }),
 
-/***/ 5:
+/***/ 6:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_vue__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_vue__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__App__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__App__ = __webpack_require__(3);
 
 
 
@@ -80,7 +80,7 @@ app.$mount();
 
 /***/ }),
 
-/***/ 8:
+/***/ 9:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -91,5 +91,5 @@ app.$mount();
 
 /***/ })
 
-},[5]);
+},[6]);
 //# sourceMappingURL=app.js.map
