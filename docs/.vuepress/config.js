@@ -1,7 +1,7 @@
 module.exports = {
   base: '/mpvue-itbookui/',
   title: 'itbook',
-  description: '基于 mpvue 的 itbookui 框架',
+  description: '基于 mpvue 的 itbook ui框架',
   head: [
     ['link', {
       rel: 'icon',
