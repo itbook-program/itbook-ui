@@ -3,11 +3,10 @@
     "pages/index/main",
     "pages/button/main"
   ],
-  "window": {
+  "window": { 
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "Mpvue-WeUI",
     "navigationBarTextStyle": "black"
-  },
-  "sitemapLocation": "sitemap28.json"
+  }
 }

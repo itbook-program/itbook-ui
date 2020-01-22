@@ -1,0 +1,5 @@
+<template name="index$741a0104">
+  <view class="_div data-v-4d9105d6 custom-butttons__container">
+    <input placeholder="测试" class="_input data-v-4d9105d6" />
+  </view>
+</template>

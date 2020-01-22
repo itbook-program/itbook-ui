@@ -1,1 +1,12 @@
-.card{padding:20rpx}
+
+.custom-button__wrapper.data-v-4d9105d6 {
+  width: 100%;
+  border-radius: 44rpx;
+  background-color: #1ea473;
+  height: 88rpx;
+  color: #fff;
+  font-size: 32rpx;
+}
+.custom-button__wrapper.data-v-4d9105d6:active {
+  opacity: 0.8;
+}
