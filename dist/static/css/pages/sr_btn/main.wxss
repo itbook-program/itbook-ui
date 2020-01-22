@@ -1,2 +1,0 @@
-@import "../../vendor.wxss";
-.custom-butttons__container .custom-button__wrapper.data-v-2655b09b{width:100%;border-radius:44rpx;background-color:#1ea473;height:88rpx;color:#fff;font-size:32rpx}.custom-butttons__container .custom-button__wrapper.data-v-2655b09b:active{opacity:.8}
